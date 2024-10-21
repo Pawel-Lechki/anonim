@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/componenst/loadingspinner.tsx"],"version":"5.6.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/componenst/loadingspinner.tsx","./src/icons/erasericon.tsx","./src/icons/floppyicon.tsx","./src/icons/trashicon.tsx","./src/icons/undoicon.tsx"],"errors":true,"version":"5.6.3"}

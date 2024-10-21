@@ -14,11 +14,11 @@ const EraserIcon = () => {
       <path
         d="M9 21H21"
         stroke="#000000"
-        stroke-width="1.5"
-        stroke-linecap="round"
+        strokeWidth="1.5"
+        strokeLinecap="round"
       />
     </svg>
-  );
-};
+  )
+}
 
-export default EraserIcon;
+export default EraserIcon
